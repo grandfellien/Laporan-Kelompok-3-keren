@@ -137,7 +137,7 @@ Pilih SSL Certificate & Key:
 
 Berdasarkan pengalaman kami dalam proyek ini, berikut adalah analisis kelebihan dan kekurangan dari *Web Server* yang kami gunakan:
 
-| Aspek | Kelebihan ([NAMA WEB SERVER]) 👍 | Kekurangan ([NAMA WEB SERVER]) 👎 |
+| Aspek | Kelebihan WEB SERVER 👍 | Kekurangan WEB SERVER 👎 |
 | :--- | :--- | :--- |
 | **Performa & Kecepatan** | [Tuliskan kelebihannya.] | [Tuliskan kekurangannya.] |
 | **Kemudahan Konfigurasi**| Tersedia web admin GUI Sehingga konfigurasi gampang| [Struktur konfigurasi berbeda dari Apache/Nginx, perlu adaptasi.] |
@@ -149,7 +149,7 @@ Berdasarkan pengalaman kami dalam proyek ini, berikut adalah analisis kelebihan 
 
 #### 4.1. Kesan Selama Proses Pengerjaan ✨
 
-[Tuliskan kesan anggota kelompok, misalnya: "Kami merasa mendapatkan banyak ilmu baru, terutama dalam praktik Version Control menggunakan Git dan GitHub yang belum pernah kami lakukan sebelumnya."]
+Kami merasa mendapatkan banyak ilmu baru, terutama dalam praktik Version Control menggunakan Git dan GitHub yang belum pernah kami lakukan sebelumnya.
 
 #### 4.2. Kendala dan Solusi yang Diterapkan 💡
 
